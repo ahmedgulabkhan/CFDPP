@@ -1,6 +1,7 @@
 # Idea for codefundo++
 
 Q) What are you planning to build?
+
 A) I'll be working on an ML model that can classify/predict the occurence of a Natural Disaster based on previous data and also do Twitter Sentiment Analysis in order to manage the disaster.
 
 Q) How does it work?
